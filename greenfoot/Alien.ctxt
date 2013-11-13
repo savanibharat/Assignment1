@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Alien()
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\ public\ void\ p(GreenfootImage\ g)\r\n\ \ \ \ {\r\n\ \ \ \ \ \ \ \ //just\ to\ see\ wether\ working\ or\ not\r\n\ \ \ \ \ \ \ \ getWorld().getBackground().drawImage(g,550,100);\r\n\ \ \ \ \ \ \ \ return;\r\n}
+comment2.params=
+comment2.target=void\ movinggreenpicker()
+numComments=3

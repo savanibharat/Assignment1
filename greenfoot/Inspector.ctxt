@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Inspector()
+comment0.text=\r\n\ Act\ -\ do\ whatever\ the\ Inspector\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=conditional_var
+comment2.target=void\ hascoin(int)
+comment2.text=\r\n\ conditional_var\ \=\ 1\ denotes\ penny\ is\ moved\r\n\ conditional_var\ \=\ 2\ denotes\ quarter\ is\ moved\r\n\ conditional_var\ \=\ 3\ denotes\ fakequarter\ is\ moved\r\n
+numComments=3

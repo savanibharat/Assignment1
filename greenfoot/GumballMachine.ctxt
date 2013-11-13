@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=p\ q\ f\ i
+comment0.target=GumballMachine(Penny,\ Quarter,\ FakeQuarter,\ Inspector)
+comment1.params=
+comment1.target=GumballMachine()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ pennymoved()
+comment4.params=
+comment4.target=void\ quartermoved()
+comment5.params=
+comment5.target=void\ fakequartermoved()
+comment6.params=condition
+comment6.target=void\ turncrank(int)
+comment6.text=\ Turncrank\ method\ plays\ important\ role\ as\ it\ calls\ inspector\ who\ will\ decide\ the\ further\ actions\ to\ be\ mobilized.\r\n\ \ \ \ Turncrank\ method\ is\ communicator\ between\ gumball\ machine\ and\ Inspector.\r\nIt\ takes\ a\ conditional\ variable\ with\ it\ and\ presents\ to\ Inspector
+numComments=7
